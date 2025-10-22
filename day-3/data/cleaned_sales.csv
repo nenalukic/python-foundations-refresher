@@ -1,0 +1,10 @@
+day,revenue,expenses,month,profit
+1,200,150,February,50
+2,220,140,February,80
+3,180,160,February,20
+1,200,150,January,50
+2,220,140,January,80
+3,180,160,January,20
+1,200,150,March,50
+2,220,140,March,80
+3,180,160,March,20
